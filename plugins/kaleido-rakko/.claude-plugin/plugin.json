@@ -1,0 +1,6 @@
+{
+  "name": "kaleido-rakko",
+  "version": "0.3.0",
+  "description": "ステータスラインにカレイド・ラッコが住みつく、遊び用の Claude Mod",
+  "author": { "name": "takeaki-hada" }
+}

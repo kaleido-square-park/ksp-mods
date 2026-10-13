@@ -1,0 +1,11 @@
+{
+  "name": "ksp-mods",
+  "owner": { "name": "takeaki" },
+  "plugins": [
+    {
+      "name": "kaleido-rakko",
+      "source": "./plugins/kaleido-rakko",
+      "description": "ステータスラインにカレイド・ラッコが住みつく、遊び用の Claude Mod"
+    }
+  ]
+}
